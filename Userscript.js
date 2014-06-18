@@ -48,3 +48,4 @@ function initLogin(){
 function delayInvoke(callback, timeout){
     window.setTimeout(callback, timeout);
 }
+
